@@ -1,0 +1,1 @@
+This folder contains the processed/extracted data used to construct the models. 
