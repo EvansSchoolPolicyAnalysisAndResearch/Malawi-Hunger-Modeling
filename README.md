@@ -1,4 +1,4 @@
-# Malawi-Hunger-Modeling
+# Malawi-Hunger-Modeling [![DOI](https://zenodo.org/badge/940253497.svg)](https://doi.org/10.5281/zenodo.15605219)
 Code and data needed to replicate the results from "Assessing the Utility of Machine Learning for Predicting Food Sufficiency: A Case Study in Malawi"
 
 Requirements:
